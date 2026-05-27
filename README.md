@@ -1,94 +1,104 @@
-<h1 align="center">Hi there, I'm Sanvi Kulkarni 👋</h1>
-<h3 align="center">Integrated M.Tech Data Science Student | AI • ML • Data Analytics</h3>
+<div align="center">
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sanvi-kulkarni-a75540251/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"/></a>
-  <a href="mailto: sanvik926@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-green"/></a>
-</p>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C9FF&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=32&fontColor=FFFFFF&animation=twinkling&fontAlignY=55)](https://github.com/Sanvi09Kulkarni)
 
----
+# 👋 Hi, I'm Sanvi Kulkarni
 
-## 🚀 About Me
+### 🚀 Integrated MTech CSE (Data Science) · AI/ML Engineer · Data Analyst
 
-I'm a **5-year Integrated M.Tech student in Data Science** with a strong interest in **Machine Learning, AI, and Data Analytics**.  
-I enjoy building **data-driven systems** that solve real-world problems — from **NLP-based applications** to **end-to-end ML pipelines**.
+[![Profile Views](https://komarev.com/ghpvc/?username=Sanvi09Kulkarni&label=Profile%20Views&color=7B2FF7&style=for-the-badge)](https://github.com/Sanvi09Kulkarni)
+[![GitHub Followers](https://img.shields.io/github/followers/Sanvi09Kulkarni?label=Followers&color=00C9FF&style=for-the-badge)](https://github.com/Sanvi09Kulkarni?tab=followers)
 
-- 🔭 Currently working on: **AI Inbox Analyzer & NLP-based ML projects**
-- 🌱 Learning: **Advanced Machine Learning, SQL Optimization, MLOps basics**
-- 🎯 Interested in: **Data Science, AI/ML, Analytics roles (2026 placements)**
-- 💡 Goal: Build industry-ready projects & crack product-based company roles
-- ⚡ Fun fact: I love breaking complex problems into clean, logical solutions
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;NLP+%7C+LLMs+%7C+Transformers+Enthusiast;Data+Analytics+%7C+Power+BI+%7C+SQL+Pipelines;Cloud+%26+MLOps+%7C+AWS+%7C+Docker;Building+Intelligent+Systems+%F0%9F%9A%80)](https://github.com/Sanvi09Kulkarni)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💫 About Me
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
-![Java](https://img.shields.io/badge/Java-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-
-### 📊 AI / ML & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-purple)
-![NumPy](https://img.shields.io/badge/NumPy-blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-orange)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-red)
-
-### 🌐 Web & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-teal)
-![Flask](https://img.shields.io/badge/Flask-black)
-![HTML](https://img.shields.io/badge/HTML-red)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JS-yellow)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![VS Code](https://img.shields.io/badge/VSCode-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange)
+- 🎓 **Integrated MTech in CSE (Data Science)** — VIT Bhopal &nbsp;|&nbsp; CGPA: **8.4**
+- 🧠 Passionate about **NLP, LLMs, ML pipelines, and real-time AI systems**
+- 💼 Ex **Data Analyst Trainee @ MedTourEasy** — SQL pipelines, Power BI, 5000+ healthcare records
+- 🔭 Built **DistilBERT email classifier**, **voice AI agent**, and **1M+ ride demand forecaster**
+- ☁️ Experienced with **AWS (EC2, S3, Lambda)**, Docker, GitHub Actions
+- ✍️ Technical writer on **Dev.to**
+- 📫 **sanvik926@gmail.com**
 
 ---
 
-## 🔥 Featured Projects
+## 🛠️ Languages & Tools
 
-### 📩 AI Inbox Analyzer
-AI-driven email analysis system that summarizes emails, detects deadlines, and classifies urgency.
-
-- **Tech:** Python, FastAPI, NLP, Rule-based ML
-- **Impact:** Reduced email reading time by ~60%
-- 🔗 Repo: https://github.com/Sanvi09Kulkarni/AI-Inbox-Analyzer
+[![Skills](https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,sklearn,fastapi,streamlit,aws,docker,git,github,sqlite,vscode,jupyter&perline=7)](https://skillicons.dev)
 
 ---
 
-### 📄 Resume Analyzer with NLP
-Smart resume screening tool that matches resumes with job descriptions.
+## 📊 GitHub Analytics
 
-- **Tech:** Python, NLP, Scikit-learn, Flask
-- **Impact:** Improved resume-job match accuracy by ~35%
+<div align="center">
 
----
+[![Sanvi's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sanvi09Kulkarni&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10&show_icons=true)](https://github.com/Sanvi09Kulkarni)
 
-### 📊 Student Performance Analytics
-Data analytics project to identify performance patterns and improvement areas.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sanvi09Kulkarni&theme=nightowl&hide_border=true&cache_seconds=86400)](https://github.com/Sanvi09Kulkarni)
 
-- **Tech:** Python, Pandas, Matplotlib, SQL
-- **Impact:** Actionable academic insights using real datasets
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanvi09Kulkarni&theme=tokyonight)](https://github.com/Sanvi09Kulkarni)
+
+</div>
 
 ---
 
-### 🧠 NLP Query Engine
-Natural language interface to query structured datasets.
+## 📈 Contribution Activity
 
-- **Tech:** NLP, Python, ML
-- **Focus:** Query understanding & intent classification
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanvi09Kulkarni&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=00C9FF&line=7B2FF7&point=FFFFFF)](https://github.com/Sanvi09Kulkarni)
 
+---
 
-## 🤝 Let's Connect
+## 🌟 Featured Projects
 
-- 💼 LinkedIn:[ https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sanvi-kulkarni-a75540251/)
-- 📧 Email:sanvik926@gmail.com
+| 🧩 Project | 📝 Description | ⚙️ Tech Stack |
+|---|---|---|
+| **[IntelliMail](https://github.com/Sanvi09Kulkarni)** | Fine-tuned DistilBERT on 300+ emails for 7-category intent classification with sub-300ms inference | Python, DistilBERT, FastAPI, Streamlit, SQLite |
+| **[VoxAgent](https://github.com/Sanvi09Kulkarni/voice-AI-agent)** | Voice-controlled local AI agent with 95%+ transcription accuracy & 10-turn memory | Groq Whisper, Llama 3.3, Streamlit |
+| **[CitiBike Analytics](https://github.com/Sanvi09Kulkarni)** | Demand forecasting on 1M+ ride records — MAPE < 15%, 500+ stations clustered | Prophet, Scikit-learn, Power BI |
+| **[Tenali Gurukul](https://github.com/Sanvi09Kulkarni/Tenali-Gurukul)** | AI-powered virtual teaching assistant for rural India students | TypeScript, AI/ML |
+| **[SaaS Funnel Analytics](https://github.com/Sanvi09Kulkarni/saas-funnel-analytics)** | Activation, funnel, retention, churn & revenue analysis on synthetic SaaS data | Python, Pandas, Jupyter |
 
-⭐ If you like my work, feel free to explore my repositories and connect!
+---
+
+## 💼 Experience
+
+**Data Analyst Trainee — MedTourEasy** *(Nov 2025 – Dec 2025)*
+- Engineered SQL + Python pipelines processing **5,000+ healthcare records**
+- Built Power BI dashboards tracking **20+ KPIs**, improving reporting efficiency by 30%
+- Generated actionable insights for operational decision-making
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🥇 **IBM AI Engineering** — Coursera *(Mar 2025)*: ML/DL with Scikit-learn, PyTorch & neural architectures on 10k+ datasets
+- 🎤 **Event Anchor** — Data Science Club, VIT Bhopal *(Jan 2023)*: Coordinated 50+ participants
+- 🎯 **Discipline Committee Head** — Campus Festivities *(Sep 2024)*: Led 3+ events with 20+ members
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanvik926@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanvi-kulkarni-a75540251/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanvi09Kulkarni)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
+
+</div>
+
+---
+
+<div align="center">
+
+*⭐ If you find my work interesting, feel free to explore the repos and connect!*
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7B2FF7&height=100&section=footer)](https://github.com/Sanvi09Kulkarni)
+
+</div>
